@@ -1,0 +1,10 @@
+a.	It supports 3: Player, players, and players/id.
+b.	
+		i.	It's the JDBC statement object.
+		ii.
+				1. SQL query statements are specific queries submitted to a database while JDBC statements objects are  interfaces which provide a means of executing SQL queries.
+				2. SQL relations are often represented with a table. JDBC results sets are subsets of the overall table, and have their own Class representation in Java. And List<Player> is basically a list of entries with fields of data that you build a Player object from.
+		iii.	When you want to provide syntax for an SQL Query and want the "NULL" to have no quotes.
+c.
+		i. It allows us to represent a Player in our Object-oriented world of Java.
+		ii. It seems similar because it has the same fields.
