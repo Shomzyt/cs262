@@ -1,0 +1,8 @@
+Oshomah Agbugui
+Homework 3
+
+1.
+	a.	It is RESTful. They map to CRUD correctly), Adheres to http methods, is stateless, our URIs are directory-structure-like among others
+	b.	GET, PUT, and DELETE are idempotent. GET is nullipotent.
+	c.	The PSQL database is mapped to a JDBC model.
+	d.	SQL queries are limited by the server, so no.

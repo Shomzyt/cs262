@@ -1,0 +1,7 @@
+Reviewer: Oshomah Agbugui
+Reviewed Team: B (Scavenger Hunt)
+
+a.	Their trello, slack and github are active. They each seem tto be doing enough work.
+b.	I understand their schema. Everything there seems to run as expected and there are fewer tables to work with than other groups.
+c.	Yes, there's a lot of code submitted to their repos. They've started work on their database as well. They've done a good amount of work.
+d.	The presentation was good! I could understand what they wer goingg for and I they ansswered questions appropriately.Good use of diagrams and great demo!
