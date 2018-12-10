@@ -1,0 +1,7 @@
+Reviewer: Oshomah Agbugui
+Reviewed Team: B (Scavenger Hunt)
+
+a. There's enough activity on their board.
+b. I understood their user stories. Each case made sense to me and I understand where they're going with this.  I could also understand their UI and class models.
+c. There's something there. I couldn't get it runnning though.
+d. No, I don't think they're missing anything important
