@@ -1,0 +1,12 @@
+Oshomah Agbugui
+
+Changes Made:
+
+	- Added some comments
+	- Changed layout height to be 0dp
+	- Removed redundant code
+
+Changes Not Made:
+
+	- Did not add autofill hint to number inputs 
+	- Did not fix divide by zero(0) error
